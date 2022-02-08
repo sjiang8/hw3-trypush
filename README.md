@@ -7,6 +7,7 @@
 1. libraries: `os`
 2. Tools: `requests`, `python-dotenv`, `Flask`
 3. deployment: `heroku`
+4. api: TMDB, Wikipedia
 
 ## Setup
 1. install request by `pip install Flask python-dotenv requests`
@@ -16,7 +17,6 @@
 5. Create a `env.` file in the directory and enter
 ```
 export API_KEY='YOUR_KEY'
-
 ```
 
 ## Run
