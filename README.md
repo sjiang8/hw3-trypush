@@ -1,9 +1,14 @@
-##Tools
+# Project Milestone 1 
+    Sijia Jiang
+    CSC 4350
+    Prof. Martin
+
+## Tools
 1. libraries: `os`
 2. Tools: `requests`, `python-dotenv`, `Flask`
 3. deployment: `heroku`
 
-##Setup
+## Setup
 1. install request by `pip install Flask python-dotenv requests`
 2. Clone the project repository by running `git clone https://github.com/csc4350-sp22/project1-sjiang8.git `
 3. Get heroku account and login to heroku if possible `heroku login -i`
@@ -14,12 +19,12 @@ export API_KEY='YOUR_KEY'
 
 ```
 
-##Run
+## Run
 1. `python3 app.py`
 2. heroku-URL: http://sleepy-savannah-45990.herokuapp.com/
 
 
-##Technical Issues
+## Technical Issues
 1. error: failed to push some refs to 'https://www.github.com/sjiang8/lect-7.git'
 
 That's because I already create a README file in my main branch, so I delete my lect7 repo and recreate an empty one.
